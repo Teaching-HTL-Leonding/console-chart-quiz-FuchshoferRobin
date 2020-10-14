@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30524.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleChartQuiz", "ConsoleChartQuiz\ConsoleChartQuiz.csproj", "{18005CE1-3F94-4B43-B38C-4A80F50BF998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18005CE1-3F94-4B43-B38C-4A80F50BF998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18005CE1-3F94-4B43-B38C-4A80F50BF998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18005CE1-3F94-4B43-B38C-4A80F50BF998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18005CE1-3F94-4B43-B38C-4A80F50BF998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2CC8F3-B7CF-4353-8933-7B4F7E7D03EE}
+	EndGlobalSection
+EndGlobal

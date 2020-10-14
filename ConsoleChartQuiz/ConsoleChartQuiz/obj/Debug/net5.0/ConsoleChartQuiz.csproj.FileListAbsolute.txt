@@ -1,0 +1,16 @@
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.exe
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.deps.json
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.runtimeconfig.json
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.runtimeconfig.dev.json
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.dll
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ref\ConsoleChartQuiz.dll
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\net5.0\ConsoleChartQuiz.pdb
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.csprojAssemblyReference.cache
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.AssemblyInfoInputs.cache
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.AssemblyInfo.cs
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.csproj.CoreCompileInputs.cache
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.dll
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ref\ConsoleChartQuiz.dll
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.pdb
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\net5.0\ConsoleChartQuiz.genruntimeconfig.cache

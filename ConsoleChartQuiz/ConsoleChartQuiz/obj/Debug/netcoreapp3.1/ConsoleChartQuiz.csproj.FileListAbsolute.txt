@@ -1,0 +1,13 @@
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\netcoreapp3.1\ConsoleChartQuiz.exe
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\netcoreapp3.1\ConsoleChartQuiz.deps.json
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\netcoreapp3.1\ConsoleChartQuiz.runtimeconfig.json
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\netcoreapp3.1\ConsoleChartQuiz.runtimeconfig.dev.json
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\netcoreapp3.1\ConsoleChartQuiz.dll
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\bin\Debug\netcoreapp3.1\ConsoleChartQuiz.pdb
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\netcoreapp3.1\ConsoleChartQuiz.csprojAssemblyReference.cache
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\netcoreapp3.1\ConsoleChartQuiz.AssemblyInfoInputs.cache
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\netcoreapp3.1\ConsoleChartQuiz.AssemblyInfo.cs
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\netcoreapp3.1\ConsoleChartQuiz.csproj.CoreCompileInputs.cache
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\netcoreapp3.1\ConsoleChartQuiz.dll
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\netcoreapp3.1\ConsoleChartQuiz.pdb
+C:\Users\robfu\OneDrive\Schule\4. Klasse\PROG C#\Hausübungen\console-chart-quiz-FuchshoferRobin\ConsoleChartQuiz\ConsoleChartQuiz\obj\Debug\netcoreapp3.1\ConsoleChartQuiz.genruntimeconfig.cache
